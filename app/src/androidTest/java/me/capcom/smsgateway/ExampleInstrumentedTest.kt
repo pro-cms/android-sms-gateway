@@ -1,4 +1,4 @@
-package me.capcom.smsgateway
+package com.server.zepsonconnect
 
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.platform.app.InstrumentationRegistry
@@ -17,6 +17,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("me.capcom.smsgateway", appContext.packageName)
+        assertEquals("com.server.zepsonconnect", appContext.packageName)
     }
 }

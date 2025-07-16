@@ -9,7 +9,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "me.capcom.smsgateway"
+        applicationId "com.server.zepsonconnect"
         minSdk 21
         targetSdk 33
         versionCode 1
@@ -52,7 +52,7 @@ android {
         exclude 'META-INF/INDEX.LIST'
         exclude 'META-INF/io.netty.versions.properties'
     }
-    namespace 'me.capcom.smsgateway'
+    namespace 'com.server.zepsonconnect'
 }
 
 dependencies {

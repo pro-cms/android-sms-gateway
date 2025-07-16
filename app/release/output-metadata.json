@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "me.capcom.smsgateway",
+  "applicationId": "com.server.zepsonconnect",
   "variantName": "release",
   "elements": [
     {
